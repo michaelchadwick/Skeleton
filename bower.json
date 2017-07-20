@@ -1,21 +1,23 @@
 {
-  "name": "skeleton",
-  "version": "2.0.4",
-  "homepage": "http://getskeleton.com/",
+  "name": "bones",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhg/Skeleton"
+    "url": "https://github.com/michaelchadwick/bones"
   },
   "authors": [
     "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
   ],
-  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
-  "main": "css/skeleton.css",
+  "description": "Simple Web boilerplate, forked from Skeleton",
+  "main": "css/bones.css",
   "keywords": [
     "css",
-    "skeleton",
+    "bones",
     "responsive",
-    "boilerplate"
+    "boilerplate",
+    "web",
+    "html",
+    "js"
   ],
   "license": "MIT"
 }
